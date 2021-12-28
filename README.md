@@ -1,4 +1,6 @@
-# Sparta Coding Camp - Team Proejct 1. Instagram Clone Coding
+# Moominstagram
+
+Sparta Coding Camp - Team Proejct 1. Instagram Clone Coding
 
 ## 😎 무민과아이들 
 * [윤소현님](https://github.com/YoonSeohyeon) - 팀장
