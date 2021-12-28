@@ -41,6 +41,6 @@ Sparta Coding Camp - Team Proejct 1. Instagram Clone Coding
   + 팔로우 팔로워 수 보기
 
 
-## DB 스키마
+## 🎈 DB 스키마
 
 
