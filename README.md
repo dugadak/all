@@ -7,7 +7,7 @@
 * [이용헌님](https://github.com/yongheon-Lee)
 * [박재영님](https://github.com/devjcode)
 
-## 개발 포지션
+## 🦴 개발 포지션
 + Front-end : 윤소현, 이병준, 이용헌
 + Back-end : 한장원, 박재영
 
@@ -17,11 +17,11 @@
 
 
 
-## 기술 스택
+## 🤖 기술 스택
 
 
 
-## 아키텍처
+## 🕸 아키텍처
 
 
 ## DB 스키마
