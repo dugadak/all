@@ -5,7 +5,7 @@ Sparta Coding Camp - Team Proejct 1. Instagram Clone Coding
 <br>
 
 ## 😎 무민과아이들 
-* [윤소현님](https://github.com/YoonSeohyeon) - 팀장
+* [윤소현님](https://github.com/YoonSeohyeon) (팀장)
 * [이병준님](https://github.com/dugadak)
 * [한장원님](https://github.com/HANJANGWON)
 * [이용헌님](https://github.com/yongheon-Lee)
