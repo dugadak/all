@@ -35,7 +35,7 @@ Sparta Coding Camp - Team Proejct 1. Instagram Clone Coding
 <br>
 
 ## 🕸 아키텍처  
-
+<img width="1152" alt="Frame 1" src="https://user-images.githubusercontent.com/87844396/147567865-c06f25c0-dfbc-499d-bc5c-7957a1ab35ef.png">
 <br>
 <br>
 
