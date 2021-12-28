@@ -32,11 +32,11 @@ Sparta Coding Camp - Team Proejct 1. Instagram Clone Coding
 
 
 ## 🙉 구현
-1. 로그인
-2. 회원가입
-3. 메인페이지
+- 로그인
+- 회원가입
+- 메인페이지
   + 전체 글 조회
-4. 마이페이지
+- 마이페이지
   + 자신이 쓴 글 모아보기
   + 팔로우 팔로워 수 보기
 
