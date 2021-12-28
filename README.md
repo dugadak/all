@@ -10,20 +10,20 @@ Sparta Coding Camp - Team Proejct 1. Instagram Clone Coding
 * [한장원님](https://github.com/HANJANGWON)
 * [이용헌님](https://github.com/yongheon-Lee)
 * [박재영님](https://github.com/devjcode)  
-
-
+#
+#
 
 ## 🦴 개발 포지션
 + Front-end : 윤소현, 이병준, 이용헌
 + Back-end : 한장원, 박재영  
-
-
+#
+#
 
 
 ## 📆 프로젝트 기간
 2021-12-28 ~ 2021.01.04  
-
-
+#
+#
 
 ## 🤖 기술 스택
 1. Front : HTML, JavaScript, Ajax
@@ -31,13 +31,13 @@ Sparta Coding Camp - Team Proejct 1. Instagram Clone Coding
 3. Server : AWS EC2
 4. 협업 : [github](https://github.com/MoominAndChildrenTeam/), Figma  
 
-
-
+#
+#
 
 ## 🕸 아키텍처  
 
-
-
+#
+#
 
 ## 🙉 구현
 - 로그인
@@ -48,8 +48,8 @@ Sparta Coding Camp - Team Proejct 1. Instagram Clone Coding
   + 자신이 쓴 글 모아보기
   + 팔로우 팔로워 수 보기  
 
-
-
+#
+#
 
 ## 🎈 DB 스키마  
 
