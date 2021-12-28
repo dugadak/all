@@ -1,8 +1,8 @@
 # Moominstagram
 
 Sparta Coding Camp - Team Proejct 1. Instagram Clone Coding
-
-
+<br>
+<br>
 
 ## 😎 무민과아이들 
 * [윤소현님](https://github.com/YoonSeohyeon) - 팀장
@@ -10,17 +10,18 @@ Sparta Coding Camp - Team Proejct 1. Instagram Clone Coding
 * [한장원님](https://github.com/HANJANGWON)
 * [이용헌님](https://github.com/yongheon-Lee)
 * [박재영님](https://github.com/devjcode)  
-
+<br>
+<br>
 ## 🦴 개발 포지션
 + Front-end : 윤소현, 이병준, 이용헌
 + Back-end : 한장원, 박재영  
-
-
+<br>
+<br>
 
 ## 📆 프로젝트 기간
 2021-12-28 ~ 2021.01.04  
-
-
+<br>
+<br>
 ## 🤖 기술 스택
 1. Front : HTML, JavaScript, Ajax
 2. Back : Python, Flask, MongoDB
