@@ -10,11 +10,14 @@ Sparta Coding Camp - Team Proejct 1. Instagram Clone Coding
 * [한장원님](https://github.com/HANJANGWON)
 * [이용헌님](https://github.com/yongheon-Lee)
 * [박재영님](https://github.com/devjcode)  
+
 <br>
 <br>
+
 ## 🦴 개발 포지션
 + Front-end : 윤소현, 이병준, 이용헌
 + Back-end : 한장원, 박재영  
+
 <br>
 <br>
 
