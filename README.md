@@ -36,7 +36,7 @@ Sparta Coding Camp - Team Proejct 1. Instagram Clone Coding
 2) 회원가입
 4) 메인페이지
   ✔ 전체 글 조회
-5) 마이페이지
+6) 마이페이지
   ✔ 자신이 쓴 글 모아보기
   ✔ 팔로우 팔로워 수 보기
   ✔ 
