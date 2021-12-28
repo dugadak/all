@@ -24,11 +24,23 @@ Sparta Coding Camp - Team Proejct 1. Instagram Clone Coding
 ## 🤖 기술 스택
 1. Front : HTML, JavaScript, Ajax
 2. Back : Python, Flask, MongoDB
-3. 협업 : github, Figma
+3. Server : AWS EC2
+4. 협업 : [github](https://github.com/MoominAndChildrenTeam/), Figma
 
 
 ## 🕸 아키텍처
 
 
+## 🙉 구현
+1) 로그인
+2) 회원가입
+4) 메인페이지
+* 전체 글 조회
+5) 마이페이지
+* 자신이 쓴 글 모아보기
+* 팔로우 팔로워 수 보기
+* 
 
 ## DB 스키마
+
+
