@@ -18,10 +18,13 @@
 
 
 ## 🤖 기술 스택
-
+1. Front : HTML, JavaScript, Ajax
+2. Back : Python, Flask, MongoDB
+3. 협업 : github, Figma
 
 
 ## 🕸 아키텍처
+
 
 
 ## DB 스키마
