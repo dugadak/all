@@ -52,7 +52,12 @@ Sparta Coding Camp - Team Proejct 1. Instagram Clone Coding
 <br>
 
 ## 🎈 DB 스키마  
-
+|기능|method|url|request|response|
+|---|---|---|---|---|
+|메인화면|GET|/|로그인 되어있지 않을시 /login 으로|
+|로그인|POST|/login|{'email':email, 'pw':pw}|
+|회원가입|POST|/register|{'email':email, 'pw':pw}||
+|이메일인증|/register2|내용 11|내용 12|
 <br>
 <br>
 
