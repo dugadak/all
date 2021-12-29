@@ -1,4 +1,4 @@
-# Moominstagram
+# Moominstagram 1
 
 Sparta Coding Camp - Team Proejct 1. Instagram Clone Coding
 <br>
